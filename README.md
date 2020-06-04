@@ -1,6 +1,8 @@
 # joel-typo-class
 
-### !   Not Responsive
+## <a href="https://lufemas.github.io/joel-typo-class/">Live Page</a>
+## <a href="https://github.com/lufemas/joel-typo-class">Source</a>
+
 
 ## -   Photoshop Layout:
 <img src ="./img/ps-layout.png">
